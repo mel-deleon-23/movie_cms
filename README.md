@@ -20,9 +20,16 @@ The MovieController facilitates essential CRUD operations. The 'index' method re
 The 'DatabaseSeeder' class populates the database with initial data, including sample movies, ensuring a seamless user experience from the start. Each movie entry is initialized with its title, genre, and release year, enriching the collection and providing a diverse range of options.
 
 ## Userflow Screenshots
-<img src="screenshots/movies-index.png" alt="Movie Index page" width="300">
-<img src="screenshots/movies-index-delete.png" alt="Delete Movie" width="300">
-<img src="screenshots/movies-index-add-movie.png" alt="Add new movie" width="300">
-<img src="screenshots/movies-index-add-movie-1.png" alt="New movie added to index" width="300">
-<img src="screenshots/movies-update-movie.png" alt="Update Movie" width="300">
-<img src="screenshots/movies-update-movie-1.png" alt="Updated movie in index" width="300">
+Index
+<img src="screenshots/movies-index.png" alt="Movie Index page" width="500">
+
+Delete
+<img src="screenshots/movies-index-delete.png" alt="Delete Movie" width="500">
+
+Add
+<img src="screenshots/movies-index-add-movie.png" alt="Add new movie" width="500">
+<img src="screenshots/movies-index-add-movie-1.png" alt="New movie added to index" width="500">
+
+Update
+<img src="screenshots/movies-update-movie.png" alt="Update Movie" width="500">
+<img src="screenshots/movies-update-movie-1.png" alt="Updated movie in index" width="500">
